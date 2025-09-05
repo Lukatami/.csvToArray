@@ -29,14 +29,12 @@ let newArray1 = {
   [csvArray0[2]]: csvArray2[2],
   [csvArray0[3]]: csvArray2[3],
 };
-
 let newArray2 = {
   [csvArray0[0]]: csvArray3[0],
   [csvArray0[1]]: csvArray3[1],
   [csvArray0[2]]: csvArray3[2],
   [csvArray0[3]]: csvArray3[3],
 };
-
 let newArray3 = {
   [csvArray0[0]]: csvArray4[0],
   [csvArray0[1]]: csvArray4[1],
